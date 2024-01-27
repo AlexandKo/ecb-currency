@@ -3,7 +3,7 @@ plugins {
     id "org.springframework.boot" version "3.2.2"
 }
 
-group = 'lv.ecb'
+group = 'currency'
 version = '1.0-SNAPSHOT'
 
 repositories {

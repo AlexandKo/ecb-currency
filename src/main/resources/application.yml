@@ -1,2 +1,6 @@
 server:
   port: 10000
+
+currency:
+  ecb:
+    xml: https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml
